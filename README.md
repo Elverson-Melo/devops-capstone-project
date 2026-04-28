@@ -1,5 +1,8 @@
 # Customer Accounts Microservice
 
+![Build Status](https://github.com/Elverson-Melo/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+
 This project is a DevOps Capstone focused on building, testing, securing, containerizing, and deploying a RESTful microservice for managing customer accounts.
 
 The service will be developed using Agile planning, Test-Driven Development (TDD), GitHub Actions for Continuous Integration, Docker for containerization, Kubernetes/OpenShift for deployment, PostgreSQL for persistence, and Tekton for Continuous Delivery.
